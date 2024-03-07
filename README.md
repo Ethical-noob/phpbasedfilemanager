@@ -3,7 +3,7 @@
 A good solution for managing files and folders for developers who can't access their site over SSH or FTP 
 or else use it as a minishell.
 
-![PHP File Manager](https://raw.github.com/alexantr/filemanager/master/phpfm.png)
+![PHP File Manager](https://raw.github.com/Ethical-noob/phpbasedfilemanager/master/ss.png)
 
 **WARNING! Do not use this script as a regular file manager in public area.
 After all actions you must delete this script from the server.**
