@@ -59,5 +59,5 @@ Supported constants:
 ## Bug tracker
 
 If you have any issues with file manager, you may report them on
-[Issue tracker](https://github.com/alexantr/filemanager/issues).
+[Issue tracker](https://github.com/Ethical-noob/phpbasedfilemanager/issues).
 
